@@ -1,0 +1,69 @@
+html, body{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+}
+
+#profile-image{
+	height: 500px;
+	background-image: url("~profile.jpeg");
+	background-position: center;
+	background-size: cover;
+}
+
+.large-padding{
+	padding: 10px 15px;
+}
+
+.btn{
+	padding: 10px;
+}
+
+.no-decoration{
+	text-decoration: none;
+}
+
+.no-margin{
+	margin: 0px;
+}
+
+.no-margin-bottom{
+	margin-bottom: 0px;
+}
+
+.full-height{
+	height: 100%;
+}
+
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.text-justify{
+	text-align: justify;
+}
+
+.top-space{
+	margin-top: 1em;
+}
+
+.bold-text{
+	font-weight: bold;
+}
+
+.title-text{
+	font-size: 3em;
+}
+
+.big-text{
+	font-size: 2.5em;
+}
+
+.medium-text{
+	font-size: 1.5em;
+}
+
+.small-text{
+	font-size: 1em;
+}
